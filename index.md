@@ -3,4 +3,6 @@ layout: default
 title: The World of Thereleibe
 ---
 
-{% assign pages_list = site.static_files %}
+Welcome to the world of Thereleibe, a fantasy setting for Role Playing Games
+
+{% assign pages_list = site.pages %}
