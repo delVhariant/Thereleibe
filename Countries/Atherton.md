@@ -1,6 +1,6 @@
 # Atherton
 
-Atherton is a small country entirely within the borders of [Galkrist](Galkist.md)
+Atherton is a small country entirely within the borders of [Galkrist](Galkrist.md)
 
 It is almost exlcusively human, and its citizens tend to have dark skin and hair.
 
