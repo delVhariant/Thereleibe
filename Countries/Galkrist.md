@@ -8,7 +8,7 @@ The Monarch has little to do with actual governance of the country, which is ins
 
 Galkrist is known for having a long memory, and once a year observes the 'Week of Remembrance', where old debts can be called upon, legends of days past are told, and the contents of the 'Book of Blood Oaths'[1](#f1) is proclaimed across the kingdom.
 
-It Neighbors [Reveill](Reveill.md) to the West, and borders the Ferregorn Ocean to the North and East.
+It Neighbors [Reveill](Reveill.md) to the Northwest, and borders the Ferregorn Ocean to the North.
 [Kranen](Kranen.md) lies to the South, and [Atherton](Atherton.md) exists entirely within the borders of Galkrist
 
 3 Major Cities:
